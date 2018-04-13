@@ -1,0 +1,1 @@
+waypoint:WWWWWWWWWWWWWWWWWW:W:-158:123:367:5:false:0:gui.xaero_default:false:0
